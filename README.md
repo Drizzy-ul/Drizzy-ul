@@ -62,7 +62,7 @@ Tech: Python, Linux
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: kelvinamarteywwinston@gmail.com
 - LinkedIn: linkedin.com/in/yourprofile
 - Location: Remote (open to work globally)
 
