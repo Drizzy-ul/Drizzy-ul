@@ -53,16 +53,9 @@ Tech: Python, Linux
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drizzy-ul&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Drizzy-ul&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Contact
 
-- Email: kelvinamarteywwinston@gmail.com
+- Email: kelvinamarteywinston@gmail.com
 - LinkedIn: linkedin.com/in/yourprofile
 - Location: Remote (open to work globally)
 
