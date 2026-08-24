@@ -56,7 +56,7 @@ Tech: Python, Linux
 ## Contact
 
 - Email: kelvinamarteywinston@gmail.com
-- LinkedIn: linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/kelvin-amartey-winston-2935b8386/
 - Location: Remote (open to work globally)
 
 ---
